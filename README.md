@@ -10,6 +10,7 @@ Revised Materials:
 <br>#Services:
 <br>#Directive:<br>Directive is a feature that is allowing us to extend behaviour of the HTML elements while executing during rendering phase.
 <br>#Pipes
+<br>#Guard
 <br>#Data Binding / Event Handlers
 <br>#HTTP Module/Forms Module
 <br>#Routing

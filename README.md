@@ -5,6 +5,7 @@ Why Angular,
 <br>Angular is a single page application with a mvc (model-view-controller) architecutre.
 <br>Angular is a framework that is using typescript.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Revised Materials:
 
 <br>#Components:<br>Components are building blocks of the application's UI. <br>Components consists of 3 files, .html, .ts, spec.ts and optional .css file for styling.

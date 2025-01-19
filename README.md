@@ -6,6 +6,7 @@ Why Angular,
 <br>Angular is a framework that is using typescript.
 
 Revised Materials:
+
 <br>#Components:<br>Components are building blocks of the application's UI. <br>Components consists of 3 files, .html, .ts, spec.ts and optional .css file for styling.
 
 <br>#Services:<br>In angular, a service is a class that contains bussiness logic, data retrival or shared functionality, <br>that can be used across multiple components.

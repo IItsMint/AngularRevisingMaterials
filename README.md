@@ -22,4 +22,6 @@ Revised Materials:
 
 <br>#HTTP Module/Forms Module:
 
-<br>#Routing:
+<br>#Routing:<br>Routing in angular allow us to create a single page applicaiton (SPA) by navigating between different views or components without reloading the entire page.<br>It manages the navigation and rendering of components based on the URL path.
+
+<br>#State Management:

@@ -18,7 +18,7 @@ Revised Materials:
 
 <br>#Guard:<br>In angular, a guard is a type of service used to controll navigation, and access to routes.<br>Guards determine whether a route can be activated, deactivated, loadded or if data can be resolved before navigaiton.
 
-<br>#Data Binding / Event Handlers:
+<br>#Data Binding / Event Handlers:<br>It i a mechanism that allow applicaiton to respond to user interactions. Such as, cliks, key presses or mouse movements.
 
 <br>#HTTP Module/Forms Module:
 

@@ -27,4 +27,5 @@ Revised Materials:
 <br>#Routing:<br>Routing in angular allow us to create a single page applicaiton (SPA) by navigating between different views or components without reloading the entire page.<br>It manages the navigation and rendering of components based on the URL path.
 
 <br>#State Management:
-<br>#State Management:A standalone component is a self-contained unit that does not requeire being declared inside an anuglar module.>br>It can directly import dependencies such as, other components, directives, pipes or services without being part of a module.
+
+<br>#State Management:A standalone component is a self-contained unit that does not requeire being declared inside an anuglar module.<br>It can directly import dependencies such as, other components, directives, pipes or services without being part of a module.

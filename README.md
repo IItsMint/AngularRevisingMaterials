@@ -30,4 +30,4 @@ Revised Materials:
 
 <br>#Standalone:<br>A standalone component is a self-contained unit that does not requeire being declared inside an anuglar module.<br>It can directly import dependencies such as, other components, directives, pipes or services without being part of a module.
 
-<br>#Dependency Injection:<br>It is a design pattern that makes it easy to manage and share dependenceis like services or components across the applicaiton.<br>Basically, instead of creating onbjects manually, angular's DI framework provides these objects(called dependencies), to the needed parts. 
+<br>#Dependency Injection:<br>It is a design pattern that makes it easy to manage and share dependenceis like services or components across the applicaiton. Basically, instead of creating onbjects manually, angular's DI framework provides these objects(called dependencies), to the needed parts. 

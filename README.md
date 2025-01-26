@@ -28,4 +28,4 @@ Revised Materials:
 
 <br>#State Management:
 
-<br>#State Management:A standalone component is a self-contained unit that does not requeire being declared inside an anuglar module.<br>It can directly import dependencies such as, other components, directives, pipes or services without being part of a module.
+<br>#Standalone:A standalone component is a self-contained unit that does not requeire being declared inside an anuglar module.<br>It can directly import dependencies such as, other components, directives, pipes or services without being part of a module.

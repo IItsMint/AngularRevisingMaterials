@@ -36,4 +36,4 @@ Revised Materials:
 
 <br>#Dependency Injection:<br>It is a design pattern that makes it easy to manage and share dependenceis like services or components across the applicaiton. Basically, instead of creating onbjects manually, angular's DI framework provides these objects(called dependencies), to the needed parts. 
 
-<br>#Signals:<br>Signals provide a reactive way to manage state and track changeces efficiently. Unlike traditional RxJs Observables, Signals offer synchronous and automatic reactivity without manual subscriptions.
+<br>#Signals:<br>Signals provide a reactive way to manage state and track changeces efficiently. Unlike traditional RxJs Observables, Signals offer synchronous and automatic reactivity without manual subscriptions. Basically, without signals, abgular detects changes automatically and render everythibg from scratch. However, with signlas, we are telling it where the change happened. So, instead of rendering every single UI element, it will render only connected ones to change.

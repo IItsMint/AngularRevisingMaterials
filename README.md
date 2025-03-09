@@ -29,6 +29,8 @@ Revised Materials:
 <br>#Routing:<br>Routing in angular allow us to create a single page applicaiton (SPA) by navigating between different views or components without reloading the entire page.<br>It manages the navigation and rendering of components based on the URL path.
 
 <br>#State Management:<br>State management includes controlling and synchronizing the state(data) of the application acrooss components, services and other parts of the app. We can use input-output technic for vasic state management, particullarly for managinibg data flow between paranet and child components.
+1)@Input(): Pass data from a parent component to child component.
+2)@Output(): Emits event from a child component to a parent component.
 
 <br>#Standalone:<br>A standalone component is a self-contained unit that does not requeire being declared inside an anuglar module.<br>It can directly import dependencies such as, other components, directives, pipes or services without being part of a module.
 
